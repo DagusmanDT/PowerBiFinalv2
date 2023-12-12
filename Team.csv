@@ -3554,7 +3554,7 @@ N.Y. Jets,N.Y. Giants,12/6/2015,John Hussey,8,61,3,30,2,16,3,15,3,1,0,2,1,0,13,2
 N.Y. Giants,N.Y. Jets,12/6/2015,John Hussey,8,60,6,50,2,10,0,0,4,3,1,0,0,0,13,2015
 Houston,Buffalo,12/6/2015,Tony Corrente,10,89,6,69,0,0,4,20,0,0,0,0,1,1,13,2015
 Buffalo,Houston,12/6/2015,Tony Corrente,5,42,3,27,1,5,1,10,1,0,1,0,0,1,13,2015
-Baltimore,Miami,12/6/2015,John Parry,5,36,2,20,0,0,2,15,1,0,0,1,1,0,13,2015
+Baltimore,Miami,12/6/2015,John Parry,5,36,2,20,1,1,2,15,1,0,0,1,1,0,13,2015
 Miami,Baltimore,12/6/2015,John Parry,5,31,2,11,2,10,1,10,3,1,2,0,1,0,13,2015
 Cincinnati,Cleveland,12/6/2015,Jeff Triplette,5,55,2,10,3,45,0,0,2,2,0,0,1,0,13,2015
 Cleveland,Cincinnati,12/6/2015,Jeff Triplette,7,84,4,49,3,35,0,0,0,0,0,0,0,0,13,2015
@@ -4811,7 +4811,7 @@ New England,Houston,9/9/2018,Tony Corrente,6,36,2,10,3,21,1,5,3,2,0,1,0,0,1,2018
 Houston,New England,9/9/2018,Tony Corrente,6,44,4,25,2,19,0,0,3,3,0,0,1,0,1,2018
 Tampa Bay,New Orleans,9/9/2018,John Parry,7,70,3,30,3,25,1,15,2,1,1,0,3,1,1,2018
 New Orleans,Tampa Bay,9/9/2018,John Parry,8,77,2,15,5,52,1,10,1,1,0,0,1,1,1,2018
-Jacksonville,N.Y. Giants,9/9/2018,Craig Wrolstad,11,119,5,41,4,65,1,8,3,3,0,0,0,0,1,2018
+Jacksonville,N.Y. Giants,9/9/2018,Craig Wrolstad,11,119,5,41,4,65,2,13,3,3,0,0,0,0,1,2018
 N.Y. Giants,Jacksonville,9/9/2018,Craig Wrolstad,6,43,5,39,0,0,1,4,1,0,0,1,1,0,1,2018
 Kansas City,LA Chargers,9/9/2018,Clete Blakeman,6,50,1,10,4,30,1,10,0,0,0,0,1,1,1,2018
 LA Chargers,Kansas City,9/9/2018,Clete Blakeman,7,45,3,25,3,11,1,9,3,1,2,0,0,1,1,2018
@@ -5115,7 +5115,7 @@ New Orleans,Philadelphia,11/18/2018,Carl Cheffers,8,69,2,10,2,21,4,38,2,2,0,0,1,
 Jacksonville,Pittsburgh,11/18/2018,Walt Anderson,11,111,4,35,6,61,1,15,0,0,0,0,2,0,11,2018
 Pittsburgh,Jacksonville,11/18/2018,Walt Anderson,3,15,2,10,1,5,0,0,2,2,0,0,1,0,11,2018
 Kansas City,LA Rams,11/19/2018,Clete Blakeman,13,135,4,40,6,67,3,28,3,1,2,0,3,0,11,2018
-LA Rams,Kansas City,11/19/2018,Clete Blakeman,8,60,2,15,4,25,1,10,1,1,0,0,2,0,11,2018
+LA Rams,Kansas City,11/19/2018,Clete Blakeman,8,60,2,15,5,35,1,10,1,1,0,0,2,0,11,2018
 Chicago,Detroit,11/22/2018,Brad Allen,3,20,2,15,1,5,0,0,1,1,0,0,0,0,12,2018
 Detroit,Chicago,11/22/2018,Brad Allen,5,54,2,10,3,44,0,0,2,2,0,0,0,0,12,2018
 Dallas,Washington,11/22/2018,Ron Torbert,4,30,2,20,2,10,0,0,2,1,1,0,0,0,12,2018
@@ -5174,7 +5174,7 @@ Tennessee,N.Y. Jets,12/2/2018,Jerome Boger,8,75,5,50,2,15,1,10,1,1,0,0,1,1,13,20
 N.Y. Jets,Tennessee,12/2/2018,Jerome Boger,11,96,5,55,6,41,0,0,2,0,2,0,1,1,13,2018
 New England,Minnesota,12/2/2018,Craig Wrolstad,7,60,6,50,0,0,1,10,2,2,0,0,0,0,13,2018
 Minnesota,New England,12/2/2018,Craig Wrolstad,5,55,3,30,2,25,0,0,0,0,0,0,0,0,13,2018
-Seattle,San Francisco,12/2/2018,Clete Blakeman,10,100,6,50,2,30,1,15,1,1,0,0,1,0,13,2018
+Seattle,San Francisco,12/2/2018,Clete Blakeman,10,100,7,55,2,30,1,15,1,1,0,0,1,0,13,2018
 San Francisco,Seattle,12/2/2018,Clete Blakeman,13,128,4,20,6,83,3,25,5,4,1,0,2,0,13,2018
 Philadelphia,Washington,12/3/2018,Tony Corrente,5,38,3,20,2,18,0,0,2,2,0,0,0,0,13,2018
 Washington,Philadelphia,12/3/2018,Tony Corrente,10,69,7,45,3,24,0,0,5,5,0,0,3,0,13,2018
@@ -5332,7 +5332,7 @@ Green Bay,Chicago,9/5/2019,Tony Corrente,10,71,5,35,3,26,2,10,3,3,0,0,2,0,1,2019
 Chicago,Green Bay,9/5/2019,Tony Corrente,10,107,6,50,2,43,2,14,2,2,0,0,2,0,1,2019
 LA Rams,Carolina,9/8/2019,Shawn Hochuli,5,43,2,20,1,15,2,8,0,0,0,0,1,1,1,2019
 Carolina,LA Rams,9/8/2019,Shawn Hochuli,6,46,2,15,3,26,1,5,4,1,2,1,2,1,1,2019
-Cleveland,Tennessee,9/8/2019,Brad Allen,18,182,9,86,6,60,2,21,3,2,1,0,2,0,1,2019
+Cleveland,Tennessee,9/8/2019,Brad Allen,18,182,9,86,7,75,2,21,3,2,1,0,2,0,1,2019
 Tennessee,Cleveland,9/8/2019,Brad Allen,6,54,2,20,2,21,2,13,2,1,0,1,2,0,1,2019
 Jacksonville,Kansas City,9/8/2019,Carl Cheffers,10,71,5,50,5,21,0,0,3,0,3,0,0,4,1,2019
 Kansas City,Jacksonville,9/8/2019,Carl Cheffers,5,55,3,25,2,30,0,0,1,1,0,0,2,4,1,2019
